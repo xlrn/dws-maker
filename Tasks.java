@@ -1,0 +1,27 @@
+public enum Tasks {
+    Admin,
+    CW1,
+    CW2,
+    CW3,
+    CW4,
+    CW5,
+    WVPxR1,
+    MVPxR1,
+    WR2x3,
+    MR2x3,
+    MR4B,
+    WR4B,
+    Inners,
+    SFP,
+    RP,
+    BR,
+    Sanitization,
+    RN,
+    FR1,
+    FR2,
+    FR3,
+    CWOP,
+    CWCL,
+    
+
+}
